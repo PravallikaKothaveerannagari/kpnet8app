@@ -1,0 +1,12 @@
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.exe
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.dll
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.deps.json
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.runtimeconfig.json
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.pdb
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v-pkothaveer\Source\Repos\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
